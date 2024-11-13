@@ -23,6 +23,8 @@ config.color_scheme = color_scheme_for_appearance(wezterm.gui.get_appearance())
 config.window_decorations = "RESIZE"
 config.hide_tab_bar_if_only_one_tab = true
 config.native_macos_fullscreen_mode = false
+config.macos_window_background_blur = 10
+config.window_background_opacity = 0.92
 
 -- Keybindings
 config.keys = {
