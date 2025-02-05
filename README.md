@@ -15,3 +15,7 @@ Since a I never used tmux and I decided to use wezterm as my terminal emulator, 
 **Split Horizontal**: `Leader + |`
 
 **Split Vertical**: `Leader + -`
+
+### Additional Plugins
+
+- [eza a modern replacement for ls](https://github.com/eza-community/eza)
