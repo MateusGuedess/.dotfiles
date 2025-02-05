@@ -11,3 +11,7 @@ Since a I never used tmux and I decided to use wezterm as my terminal emulator, 
 #### Keys Setup
 
 **Leader**: `ALT + Q` _I know that tmux users usually use CTRL + B or CTRL + A, but I'm not a tmux user 😼._
+
+**Split Horizontal**: `Leader + |`
+
+**Split Vertical**: `Leader + -`
